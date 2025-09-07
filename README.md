@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experiences as a **web developer
 ---
 
 ## 🔗 Weblink
-**Live Website:** [Click Here](https://portfolio-be8u-q4rmoziq1-jyoti-s-projects-2fa0ce88.vercel.app/)  
+**Live Website:** [Click Here](https://portfolio-omega-lake-37.vercel.app/)  
 
 ---
 
